@@ -12,8 +12,7 @@ namespace Ludo
 {
     public partial class PlayerSelection : Form
     {
-        int playerSelectat = 3;
-
+        int playerSelectat = 0;
 
 
         public PlayerSelection()
@@ -28,7 +27,7 @@ namespace Ludo
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            if (checkBox1.Checked == true)
+            if (checkBoxRed.Checked == true)
             {
                 playerSelectat++;
             }
@@ -40,7 +39,7 @@ namespace Ludo
 
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
         {
-            if (checkBox2.Checked == true)
+            if (checkBoxBlue.Checked == true)
             {
                 playerSelectat++;
             }
@@ -52,7 +51,7 @@ namespace Ludo
 
         private void checkBox3_CheckedChanged(object sender, EventArgs e)
         {
-            if (checkBox3.Checked == true)
+            if (checkBoxYellow.Checked == true)
             {
                 playerSelectat++;
             }
@@ -65,7 +64,7 @@ namespace Ludo
         private void checkBox4_CheckedChanged(object sender, EventArgs e)
         {
 
-            if (checkBox4.Checked == true)
+            if (checkBoxGreen.Checked == true)
             {
                 playerSelectat++;
             }

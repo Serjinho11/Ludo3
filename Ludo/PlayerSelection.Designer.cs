@@ -31,10 +31,10 @@
             this.btnExit = new System.Windows.Forms.Button();
             this.btnStart = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.checkBox2 = new System.Windows.Forms.CheckBox();
-            this.checkBox3 = new System.Windows.Forms.CheckBox();
-            this.checkBox4 = new System.Windows.Forms.CheckBox();
+            this.checkBoxRed = new System.Windows.Forms.CheckBox();
+            this.checkBoxBlue = new System.Windows.Forms.CheckBox();
+            this.checkBoxYellow = new System.Windows.Forms.CheckBox();
+            this.checkBoxGreen = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // btnExit
@@ -67,63 +67,63 @@
             this.label1.TabIndex = 2;
             this.label1.Text = "Please select your color: ";
             // 
-            // checkBox1
+            // checkBoxRed
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.BackColor = System.Drawing.Color.Red;
-            this.checkBox1.Location = new System.Drawing.Point(77, 109);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(59, 21);
-            this.checkBox1.TabIndex = 3;
-            this.checkBox1.Text = "RED";
-            this.checkBox1.UseVisualStyleBackColor = false;
-            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            this.checkBoxRed.AutoSize = true;
+            this.checkBoxRed.BackColor = System.Drawing.Color.Red;
+            this.checkBoxRed.Location = new System.Drawing.Point(77, 109);
+            this.checkBoxRed.Name = "checkBoxRed";
+            this.checkBoxRed.Size = new System.Drawing.Size(59, 21);
+            this.checkBoxRed.TabIndex = 3;
+            this.checkBoxRed.Text = "RED";
+            this.checkBoxRed.UseVisualStyleBackColor = false;
+            this.checkBoxRed.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
-            // checkBox2
+            // checkBoxBlue
             // 
-            this.checkBox2.AutoSize = true;
-            this.checkBox2.BackColor = System.Drawing.Color.Blue;
-            this.checkBox2.Location = new System.Drawing.Point(77, 151);
-            this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(66, 21);
-            this.checkBox2.TabIndex = 4;
-            this.checkBox2.Text = "BLUE";
-            this.checkBox2.UseVisualStyleBackColor = false;
-            this.checkBox2.CheckedChanged += new System.EventHandler(this.checkBox2_CheckedChanged);
+            this.checkBoxBlue.AutoSize = true;
+            this.checkBoxBlue.BackColor = System.Drawing.Color.Blue;
+            this.checkBoxBlue.Location = new System.Drawing.Point(77, 151);
+            this.checkBoxBlue.Name = "checkBoxBlue";
+            this.checkBoxBlue.Size = new System.Drawing.Size(66, 21);
+            this.checkBoxBlue.TabIndex = 4;
+            this.checkBoxBlue.Text = "BLUE";
+            this.checkBoxBlue.UseVisualStyleBackColor = false;
+            this.checkBoxBlue.CheckedChanged += new System.EventHandler(this.checkBox2_CheckedChanged);
             // 
-            // checkBox3
+            // checkBoxYellow
             // 
-            this.checkBox3.AutoSize = true;
-            this.checkBox3.BackColor = System.Drawing.Color.Yellow;
-            this.checkBox3.Location = new System.Drawing.Point(77, 189);
-            this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(88, 21);
-            this.checkBox3.TabIndex = 5;
-            this.checkBox3.Text = "YELLOW";
-            this.checkBox3.UseVisualStyleBackColor = false;
-            this.checkBox3.CheckedChanged += new System.EventHandler(this.checkBox3_CheckedChanged);
+            this.checkBoxYellow.AutoSize = true;
+            this.checkBoxYellow.BackColor = System.Drawing.Color.Yellow;
+            this.checkBoxYellow.Location = new System.Drawing.Point(77, 189);
+            this.checkBoxYellow.Name = "checkBoxYellow";
+            this.checkBoxYellow.Size = new System.Drawing.Size(88, 21);
+            this.checkBoxYellow.TabIndex = 5;
+            this.checkBoxYellow.Text = "YELLOW";
+            this.checkBoxYellow.UseVisualStyleBackColor = false;
+            this.checkBoxYellow.CheckedChanged += new System.EventHandler(this.checkBox3_CheckedChanged);
             // 
-            // checkBox4
+            // checkBoxGreen
             // 
-            this.checkBox4.AutoSize = true;
-            this.checkBox4.BackColor = System.Drawing.Color.YellowGreen;
-            this.checkBox4.Location = new System.Drawing.Point(77, 227);
-            this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(79, 21);
-            this.checkBox4.TabIndex = 6;
-            this.checkBox4.Text = "GREEN";
-            this.checkBox4.UseVisualStyleBackColor = false;
-            this.checkBox4.CheckedChanged += new System.EventHandler(this.checkBox4_CheckedChanged);
+            this.checkBoxGreen.AutoSize = true;
+            this.checkBoxGreen.BackColor = System.Drawing.Color.YellowGreen;
+            this.checkBoxGreen.Location = new System.Drawing.Point(77, 227);
+            this.checkBoxGreen.Name = "checkBoxGreen";
+            this.checkBoxGreen.Size = new System.Drawing.Size(79, 21);
+            this.checkBoxGreen.TabIndex = 6;
+            this.checkBoxGreen.Text = "GREEN";
+            this.checkBoxGreen.UseVisualStyleBackColor = false;
+            this.checkBoxGreen.CheckedChanged += new System.EventHandler(this.checkBox4_CheckedChanged);
             // 
             // PlayerSelection
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(911, 538);
-            this.Controls.Add(this.checkBox4);
-            this.Controls.Add(this.checkBox3);
-            this.Controls.Add(this.checkBox2);
-            this.Controls.Add(this.checkBox1);
+            this.Controls.Add(this.checkBoxGreen);
+            this.Controls.Add(this.checkBoxYellow);
+            this.Controls.Add(this.checkBoxBlue);
+            this.Controls.Add(this.checkBoxRed);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnStart);
             this.Controls.Add(this.btnExit);
@@ -139,10 +139,10 @@
         private System.Windows.Forms.Button btnExit;
         private System.Windows.Forms.Button btnStart;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.CheckBox checkBox1;
-        private System.Windows.Forms.CheckBox checkBox2;
-        private System.Windows.Forms.CheckBox checkBox3;
-        private System.Windows.Forms.CheckBox checkBox4;
+        public System.Windows.Forms.CheckBox checkBoxGreen;
+        public System.Windows.Forms.CheckBox checkBoxRed;
+        public System.Windows.Forms.CheckBox checkBoxBlue;
+        public System.Windows.Forms.CheckBox checkBoxYellow;
     }
 }
 

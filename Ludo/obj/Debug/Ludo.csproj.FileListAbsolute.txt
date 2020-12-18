@@ -8,3 +8,13 @@ C:\Users\Sergiu\Desktop\Ludo\Ludo2\Ludo\obj\Debug\Ludo.exe
 C:\Users\Sergiu\Desktop\Ludo\Ludo2\Ludo\obj\Debug\Ludo.pdb
 C:\Users\Sergiu\Desktop\Ludo\Ludo2\Ludo\obj\Debug\Ludo.PlayerSelection.resources
 C:\Users\Sergiu\Desktop\Ludo\Ludo2\Ludo\obj\Debug\Ludo.Game.resources
+C:\Users\Sergiu\Desktop\L\Ludo\bin\Debug\Ludo.exe.config
+C:\Users\Sergiu\Desktop\L\Ludo\bin\Debug\Ludo.exe
+C:\Users\Sergiu\Desktop\L\Ludo\bin\Debug\Ludo.pdb
+C:\Users\Sergiu\Desktop\L\Ludo\obj\Debug\Ludo.csprojAssemblyReference.cache
+C:\Users\Sergiu\Desktop\L\Ludo\obj\Debug\Ludo.Game.resources
+C:\Users\Sergiu\Desktop\L\Ludo\obj\Debug\Ludo.PlayerSelection.resources
+C:\Users\Sergiu\Desktop\L\Ludo\obj\Debug\Ludo.Properties.Resources.resources
+C:\Users\Sergiu\Desktop\L\Ludo\obj\Debug\Ludo.csproj.GenerateResource.cache
+C:\Users\Sergiu\Desktop\L\Ludo\obj\Debug\Ludo.exe
+C:\Users\Sergiu\Desktop\L\Ludo\obj\Debug\Ludo.pdb
