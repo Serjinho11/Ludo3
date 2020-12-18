@@ -12,7 +12,7 @@ namespace Ludo
 {
     public partial class PlayerSelection : Form
     {
-        int playerSelectat = 0;
+        int playerSelectat = 3;
 
 
 
