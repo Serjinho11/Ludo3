@@ -52,6 +52,8 @@
     <Compile Include="Game.Designer.cs">
       <DependentUpon>Game.cs</DependentUpon>
     </Compile>
+    <Compile Include="Piesa.cs" />
+    <Compile Include="Player.cs" />
     <Compile Include="PlayerSelection.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -12,8 +12,11 @@ namespace Ludo
 {
     public partial class Game : Form
     {
-        PlayerSelection ps;
-        PictureBox[] pictureBoxs = new PictureBox[12];
+        
+        public PlayerSelection ps;
+        Player piesa;
+        public PictureBox[] pictureBoxs = new PictureBox[12];
+
 
         public Game(PlayerSelection playerSelection)
         {
@@ -24,10 +27,11 @@ namespace Ludo
             pictureBoxs[4] = pictureBox4; pictureBoxs[5] = pictureBox5; pictureBoxs[6] = pictureBox6;
             pictureBoxs[7] = pictureBox7; pictureBoxs[8] = pictureBox8; pictureBoxs[9] = pictureBox9;
             pictureBoxs[10] = pictureBox10; pictureBoxs[11] = pictureBox11;
+            piesa = new Piesa();
 
-
-            PunePieselePeTabla();
+            piesa.PunePieselePeTabla(this);
         }
+
 
         private void btnBack_Click(object sender, EventArgs e)
         {
@@ -35,72 +39,6 @@ namespace Ludo
             ps.Show();
         }
 
-        public void PunePieselePeTabla()
-        {
-            //green
-            if (ps.checkBoxGreen.Checked == true)
-            {
-
-                picBoxGreen2.ImageLocation = @"C:\Users\Sergiu\Desktop\L\Ludo\Resources\Green2.png";
-                picBoxGreen2.SizeMode = PictureBoxSizeMode.StretchImage;
-
-                picBoxGreen1.ImageLocation = @"C:\Users\Sergiu\Desktop\L\Ludo\Resources\Green3.png";
-                picBoxGreen1.SizeMode = PictureBoxSizeMode.StretchImage;
-
-                picBoxGreen3.ImageLocation = @"C:\Users\Sergiu\Desktop\L\Ludo\Resources\Green4.png";
-                picBoxGreen3.SizeMode = PictureBoxSizeMode.StretchImage;
-
-                picBoxGreen4.ImageLocation = @"C:\Users\Sergiu\Desktop\L\Ludo\Resources\Green1.png";
-                picBoxGreen4.SizeMode = PictureBoxSizeMode.StretchImage;
-
-            }
-
-            if (ps.checkBoxBlue.Checked == true)
-            {
-                picBoxBlue1.ImageLocation = @"C:\Users\Sergiu\Desktop\L\Ludo\Resources\Blue1.png";
-                picBoxBlue1.SizeMode = PictureBoxSizeMode.StretchImage;
-
-                picBoxBlue2.ImageLocation = @"C:\Users\Sergiu\Desktop\L\Ludo\Resources\Blue1.png";
-                picBoxBlue2.SizeMode = PictureBoxSizeMode.StretchImage;
-
-                picBoxBlue3.ImageLocation = @"C:\Users\Sergiu\Desktop\L\Ludo\Resources\Blue1.png";
-                picBoxBlue3.SizeMode = PictureBoxSizeMode.StretchImage;
-
-                picBoxBlue4.ImageLocation = @"C:\Users\Sergiu\Desktop\L\Ludo\Resources\Blue1.png";
-                picBoxBlue4.SizeMode = PictureBoxSizeMode.StretchImage;
-
-            }
-
-            if (ps.checkBoxYellow.Checked == true)
-            {
-                picBoxYellow1.ImageLocation = @"C:\Users\Sergiu\Desktop\L\Ludo\Resources\Yellow1.png";
-                picBoxYellow1.SizeMode = PictureBoxSizeMode.StretchImage;
-
-                picBoxYellow2.ImageLocation = @"C:\Users\Sergiu\Desktop\L\Ludo\Resources\Yellow1.png";
-                picBoxYellow2.SizeMode = PictureBoxSizeMode.StretchImage;
-
-                picBoxYellow3.ImageLocation = @"C:\Users\Sergiu\Desktop\L\Ludo\Resources\Yellow1.png";
-                picBoxYellow3.SizeMode = PictureBoxSizeMode.StretchImage;
-
-                picBoxYellow4.ImageLocation = @"C:\Users\Sergiu\Desktop\L\Ludo\Resources\Yellow1.png";
-                picBoxYellow4.SizeMode = PictureBoxSizeMode.StretchImage;
-            }
-
-            if (ps.checkBoxRed.Checked == true)
-            {
-                picBoxRed1.ImageLocation = @"C:\Users\Sergiu\Desktop\L\Ludo\Resources\Red1.png";
-                picBoxRed1.SizeMode = PictureBoxSizeMode.StretchImage;
-
-                picBoxRed2.ImageLocation = @"C:\Users\Sergiu\Desktop\L\Ludo\Resources\Red1.png";
-                picBoxRed2.SizeMode = PictureBoxSizeMode.StretchImage;
-
-                picBoxRed3.ImageLocation = @"C:\Users\Sergiu\Desktop\L\Ludo\Resources\Red1.png";
-                picBoxRed3.SizeMode = PictureBoxSizeMode.StretchImage;
-
-                picBoxRed4.ImageLocation = @"C:\Users\Sergiu\Desktop\L\Ludo\Resources\Red1.png";
-                picBoxRed4.SizeMode = PictureBoxSizeMode.StretchImage;
-            }
-        }
 
         private void button1_Click(object sender, EventArgs e)
         {
