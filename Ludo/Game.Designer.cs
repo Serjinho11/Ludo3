@@ -30,15 +30,14 @@
         {
             this.btnBack = new System.Windows.Forms.Button();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.label52 = new System.Windows.Forms.Label();
+            this.label106 = new System.Windows.Forms.Label();
             this.label225 = new System.Windows.Forms.Label();
             this.label224 = new System.Windows.Forms.Label();
             this.label223 = new System.Windows.Forms.Label();
             this.label222 = new System.Windows.Forms.Label();
             this.label221 = new System.Windows.Forms.Label();
             this.label220 = new System.Windows.Forms.Label();
-            this.label219 = new System.Windows.Forms.Label();
-            this.label218 = new System.Windows.Forms.Label();
-            this.label217 = new System.Windows.Forms.Label();
             this.label216 = new System.Windows.Forms.Label();
             this.label215 = new System.Windows.Forms.Label();
             this.label214 = new System.Windows.Forms.Label();
@@ -51,7 +50,6 @@
             this.label207 = new System.Windows.Forms.Label();
             this.label206 = new System.Windows.Forms.Label();
             this.label205 = new System.Windows.Forms.Label();
-            this.label204 = new System.Windows.Forms.Label();
             this.label203 = new System.Windows.Forms.Label();
             this.label201 = new System.Windows.Forms.Label();
             this.label198 = new System.Windows.Forms.Label();
@@ -63,7 +61,6 @@
             this.label192 = new System.Windows.Forms.Label();
             this.label191 = new System.Windows.Forms.Label();
             this.label190 = new System.Windows.Forms.Label();
-            this.label189 = new System.Windows.Forms.Label();
             this.label188 = new System.Windows.Forms.Label();
             this.label186 = new System.Windows.Forms.Label();
             this.label183 = new System.Windows.Forms.Label();
@@ -73,7 +70,6 @@
             this.label177 = new System.Windows.Forms.Label();
             this.label176 = new System.Windows.Forms.Label();
             this.label175 = new System.Windows.Forms.Label();
-            this.label174 = new System.Windows.Forms.Label();
             this.label173 = new System.Windows.Forms.Label();
             this.label171 = new System.Windows.Forms.Label();
             this.label170 = new System.Windows.Forms.Label();
@@ -85,7 +81,6 @@
             this.label162 = new System.Windows.Forms.Label();
             this.label161 = new System.Windows.Forms.Label();
             this.label160 = new System.Windows.Forms.Label();
-            this.label159 = new System.Windows.Forms.Label();
             this.label158 = new System.Windows.Forms.Label();
             this.label156 = new System.Windows.Forms.Label();
             this.label155 = new System.Windows.Forms.Label();
@@ -99,7 +94,6 @@
             this.label147 = new System.Windows.Forms.Label();
             this.label146 = new System.Windows.Forms.Label();
             this.label145 = new System.Windows.Forms.Label();
-            this.label144 = new System.Windows.Forms.Label();
             this.label143 = new System.Windows.Forms.Label();
             this.label141 = new System.Windows.Forms.Label();
             this.label140 = new System.Windows.Forms.Label();
@@ -107,15 +101,8 @@
             this.label138 = new System.Windows.Forms.Label();
             this.label137 = new System.Windows.Forms.Label();
             this.label136 = new System.Windows.Forms.Label();
-            this.label135 = new System.Windows.Forms.Label();
-            this.label134 = new System.Windows.Forms.Label();
-            this.label133 = new System.Windows.Forms.Label();
-            this.label132 = new System.Windows.Forms.Label();
-            this.label131 = new System.Windows.Forms.Label();
-            this.label130 = new System.Windows.Forms.Label();
             this.label129 = new System.Windows.Forms.Label();
             this.label128 = new System.Windows.Forms.Label();
-            this.label120 = new System.Windows.Forms.Label();
             this.label119 = new System.Windows.Forms.Label();
             this.label118 = new System.Windows.Forms.Label();
             this.label117 = new System.Windows.Forms.Label();
@@ -129,31 +116,15 @@
             this.label109 = new System.Windows.Forms.Label();
             this.label108 = new System.Windows.Forms.Label();
             this.label107 = new System.Windows.Forms.Label();
-            this.label106 = new System.Windows.Forms.Label();
-            this.label105 = new System.Windows.Forms.Label();
-            this.label104 = new System.Windows.Forms.Label();
-            this.label103 = new System.Windows.Forms.Label();
-            this.label102 = new System.Windows.Forms.Label();
-            this.label101 = new System.Windows.Forms.Label();
-            this.label100 = new System.Windows.Forms.Label();
             this.label99 = new System.Windows.Forms.Label();
             this.label98 = new System.Windows.Forms.Label();
-            this.label97 = new System.Windows.Forms.Label();
-            this.label96 = new System.Windows.Forms.Label();
-            this.label95 = new System.Windows.Forms.Label();
-            this.label94 = new System.Windows.Forms.Label();
-            this.label93 = new System.Windows.Forms.Label();
-            this.label92 = new System.Windows.Forms.Label();
-            this.label91 = new System.Windows.Forms.Label();
             this.label90 = new System.Windows.Forms.Label();
             this.label89 = new System.Windows.Forms.Label();
             this.label88 = new System.Windows.Forms.Label();
             this.label87 = new System.Windows.Forms.Label();
             this.label86 = new System.Windows.Forms.Label();
             this.label85 = new System.Windows.Forms.Label();
-            this.label84 = new System.Windows.Forms.Label();
             this.label83 = new System.Windows.Forms.Label();
-            this.label82 = new System.Windows.Forms.Label();
             this.label81 = new System.Windows.Forms.Label();
             this.label80 = new System.Windows.Forms.Label();
             this.label79 = new System.Windows.Forms.Label();
@@ -166,9 +137,7 @@
             this.label72 = new System.Windows.Forms.Label();
             this.label71 = new System.Windows.Forms.Label();
             this.label70 = new System.Windows.Forms.Label();
-            this.label69 = new System.Windows.Forms.Label();
             this.label68 = new System.Windows.Forms.Label();
-            this.label67 = new System.Windows.Forms.Label();
             this.label66 = new System.Windows.Forms.Label();
             this.label65 = new System.Windows.Forms.Label();
             this.label64 = new System.Windows.Forms.Label();
@@ -179,9 +148,7 @@
             this.label57 = new System.Windows.Forms.Label();
             this.label56 = new System.Windows.Forms.Label();
             this.label55 = new System.Windows.Forms.Label();
-            this.label54 = new System.Windows.Forms.Label();
             this.label53 = new System.Windows.Forms.Label();
-            this.label52 = new System.Windows.Forms.Label();
             this.label51 = new System.Windows.Forms.Label();
             this.label50 = new System.Windows.Forms.Label();
             this.label49 = new System.Windows.Forms.Label();
@@ -190,9 +157,7 @@
             this.label44 = new System.Windows.Forms.Label();
             this.label43 = new System.Windows.Forms.Label();
             this.label40 = new System.Windows.Forms.Label();
-            this.label39 = new System.Windows.Forms.Label();
             this.label38 = new System.Windows.Forms.Label();
-            this.label37 = new System.Windows.Forms.Label();
             this.label36 = new System.Windows.Forms.Label();
             this.label35 = new System.Windows.Forms.Label();
             this.label34 = new System.Windows.Forms.Label();
@@ -203,9 +168,7 @@
             this.label29 = new System.Windows.Forms.Label();
             this.label28 = new System.Windows.Forms.Label();
             this.label25 = new System.Windows.Forms.Label();
-            this.label24 = new System.Windows.Forms.Label();
             this.label23 = new System.Windows.Forms.Label();
-            this.label22 = new System.Windows.Forms.Label();
             this.label21 = new System.Windows.Forms.Label();
             this.label20 = new System.Windows.Forms.Label();
             this.label19 = new System.Windows.Forms.Label();
@@ -218,9 +181,6 @@
             this.label12 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -255,6 +215,46 @@
             this.pictureBox10 = new System.Windows.Forms.PictureBox();
             this.pictureBox11 = new System.Windows.Forms.PictureBox();
             this.pictureBox12 = new System.Windows.Forms.PictureBox();
+            this.pictureBox13 = new System.Windows.Forms.PictureBox();
+            this.pictureBox14 = new System.Windows.Forms.PictureBox();
+            this.pictureBox15 = new System.Windows.Forms.PictureBox();
+            this.pictureBox16 = new System.Windows.Forms.PictureBox();
+            this.pictureBox17 = new System.Windows.Forms.PictureBox();
+            this.pictureBox18 = new System.Windows.Forms.PictureBox();
+            this.pictureBox19 = new System.Windows.Forms.PictureBox();
+            this.pictureBox20 = new System.Windows.Forms.PictureBox();
+            this.pictureBox21 = new System.Windows.Forms.PictureBox();
+            this.pictureBox22 = new System.Windows.Forms.PictureBox();
+            this.pictureBox23 = new System.Windows.Forms.PictureBox();
+            this.pictureBox24 = new System.Windows.Forms.PictureBox();
+            this.pictureBox25 = new System.Windows.Forms.PictureBox();
+            this.pictureBox26 = new System.Windows.Forms.PictureBox();
+            this.pictureBox27 = new System.Windows.Forms.PictureBox();
+            this.pictureBox28 = new System.Windows.Forms.PictureBox();
+            this.pictureBox29 = new System.Windows.Forms.PictureBox();
+            this.pictureBox30 = new System.Windows.Forms.PictureBox();
+            this.pictureBox31 = new System.Windows.Forms.PictureBox();
+            this.pictureBox32 = new System.Windows.Forms.PictureBox();
+            this.pictureBox33 = new System.Windows.Forms.PictureBox();
+            this.pictureBox34 = new System.Windows.Forms.PictureBox();
+            this.pictureBox35 = new System.Windows.Forms.PictureBox();
+            this.pictureBox36 = new System.Windows.Forms.PictureBox();
+            this.pictureBox37 = new System.Windows.Forms.PictureBox();
+            this.pictureBox38 = new System.Windows.Forms.PictureBox();
+            this.pictureBox39 = new System.Windows.Forms.PictureBox();
+            this.pictureBox40 = new System.Windows.Forms.PictureBox();
+            this.pictureBox41 = new System.Windows.Forms.PictureBox();
+            this.pictureBox42 = new System.Windows.Forms.PictureBox();
+            this.pictureBox43 = new System.Windows.Forms.PictureBox();
+            this.pictureBox44 = new System.Windows.Forms.PictureBox();
+            this.pictureBox45 = new System.Windows.Forms.PictureBox();
+            this.pictureBox46 = new System.Windows.Forms.PictureBox();
+            this.pictureBox47 = new System.Windows.Forms.PictureBox();
+            this.pictureBox48 = new System.Windows.Forms.PictureBox();
+            this.pictureBox49 = new System.Windows.Forms.PictureBox();
+            this.pictureBox50 = new System.Windows.Forms.PictureBox();
+            this.pictureBox51 = new System.Windows.Forms.PictureBox();
+            this.pictureBox52 = new System.Windows.Forms.PictureBox();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
@@ -286,6 +286,46 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox28)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox31)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox32)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox33)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox34)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox35)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox36)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox37)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox38)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox39)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox40)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox41)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox42)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox43)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox44)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox45)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox46)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox47)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox48)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox49)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox50)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox51)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox52)).BeginInit();
             this.SuspendLayout();
             // 
             // btnBack
@@ -316,15 +356,14 @@
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 6.666667F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 6.666667F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 6.666667F));
+            this.tableLayoutPanel1.Controls.Add(this.label52, 6, 6);
+            this.tableLayoutPanel1.Controls.Add(this.label106, 6, 8);
             this.tableLayoutPanel1.Controls.Add(this.label225, 14, 14);
             this.tableLayoutPanel1.Controls.Add(this.label224, 13, 14);
             this.tableLayoutPanel1.Controls.Add(this.label223, 12, 14);
             this.tableLayoutPanel1.Controls.Add(this.label222, 11, 14);
             this.tableLayoutPanel1.Controls.Add(this.label221, 10, 14);
             this.tableLayoutPanel1.Controls.Add(this.label220, 9, 14);
-            this.tableLayoutPanel1.Controls.Add(this.label219, 8, 14);
-            this.tableLayoutPanel1.Controls.Add(this.label218, 7, 14);
-            this.tableLayoutPanel1.Controls.Add(this.label217, 6, 14);
             this.tableLayoutPanel1.Controls.Add(this.label216, 5, 14);
             this.tableLayoutPanel1.Controls.Add(this.label215, 4, 14);
             this.tableLayoutPanel1.Controls.Add(this.label214, 3, 14);
@@ -337,7 +376,6 @@
             this.tableLayoutPanel1.Controls.Add(this.label207, 11, 13);
             this.tableLayoutPanel1.Controls.Add(this.label206, 10, 13);
             this.tableLayoutPanel1.Controls.Add(this.label205, 9, 13);
-            this.tableLayoutPanel1.Controls.Add(this.label204, 8, 13);
             this.tableLayoutPanel1.Controls.Add(this.label203, 7, 13);
             this.tableLayoutPanel1.Controls.Add(this.label201, 5, 13);
             this.tableLayoutPanel1.Controls.Add(this.label198, 2, 13);
@@ -349,7 +387,6 @@
             this.tableLayoutPanel1.Controls.Add(this.label192, 11, 12);
             this.tableLayoutPanel1.Controls.Add(this.label191, 10, 12);
             this.tableLayoutPanel1.Controls.Add(this.label190, 9, 12);
-            this.tableLayoutPanel1.Controls.Add(this.label189, 8, 12);
             this.tableLayoutPanel1.Controls.Add(this.label188, 7, 12);
             this.tableLayoutPanel1.Controls.Add(this.label186, 5, 12);
             this.tableLayoutPanel1.Controls.Add(this.label183, 2, 12);
@@ -359,7 +396,6 @@
             this.tableLayoutPanel1.Controls.Add(this.label177, 11, 11);
             this.tableLayoutPanel1.Controls.Add(this.label176, 10, 11);
             this.tableLayoutPanel1.Controls.Add(this.label175, 9, 11);
-            this.tableLayoutPanel1.Controls.Add(this.label174, 8, 11);
             this.tableLayoutPanel1.Controls.Add(this.label173, 7, 11);
             this.tableLayoutPanel1.Controls.Add(this.label171, 5, 11);
             this.tableLayoutPanel1.Controls.Add(this.label170, 4, 11);
@@ -371,7 +407,6 @@
             this.tableLayoutPanel1.Controls.Add(this.label162, 11, 10);
             this.tableLayoutPanel1.Controls.Add(this.label161, 10, 10);
             this.tableLayoutPanel1.Controls.Add(this.label160, 9, 10);
-            this.tableLayoutPanel1.Controls.Add(this.label159, 8, 10);
             this.tableLayoutPanel1.Controls.Add(this.label158, 7, 10);
             this.tableLayoutPanel1.Controls.Add(this.label156, 5, 10);
             this.tableLayoutPanel1.Controls.Add(this.label155, 4, 10);
@@ -385,7 +420,6 @@
             this.tableLayoutPanel1.Controls.Add(this.label147, 11, 9);
             this.tableLayoutPanel1.Controls.Add(this.label146, 10, 9);
             this.tableLayoutPanel1.Controls.Add(this.label145, 9, 9);
-            this.tableLayoutPanel1.Controls.Add(this.label144, 8, 9);
             this.tableLayoutPanel1.Controls.Add(this.label143, 7, 9);
             this.tableLayoutPanel1.Controls.Add(this.label141, 5, 9);
             this.tableLayoutPanel1.Controls.Add(this.label140, 4, 9);
@@ -393,15 +427,8 @@
             this.tableLayoutPanel1.Controls.Add(this.label138, 2, 9);
             this.tableLayoutPanel1.Controls.Add(this.label137, 1, 9);
             this.tableLayoutPanel1.Controls.Add(this.label136, 0, 9);
-            this.tableLayoutPanel1.Controls.Add(this.label135, 14, 8);
-            this.tableLayoutPanel1.Controls.Add(this.label134, 13, 8);
-            this.tableLayoutPanel1.Controls.Add(this.label133, 12, 8);
-            this.tableLayoutPanel1.Controls.Add(this.label132, 11, 8);
-            this.tableLayoutPanel1.Controls.Add(this.label131, 10, 8);
-            this.tableLayoutPanel1.Controls.Add(this.label130, 9, 8);
             this.tableLayoutPanel1.Controls.Add(this.label129, 8, 8);
             this.tableLayoutPanel1.Controls.Add(this.label128, 7, 8);
-            this.tableLayoutPanel1.Controls.Add(this.label120, 14, 7);
             this.tableLayoutPanel1.Controls.Add(this.label119, 13, 7);
             this.tableLayoutPanel1.Controls.Add(this.label118, 12, 7);
             this.tableLayoutPanel1.Controls.Add(this.label117, 11, 7);
@@ -415,31 +442,15 @@
             this.tableLayoutPanel1.Controls.Add(this.label109, 3, 7);
             this.tableLayoutPanel1.Controls.Add(this.label108, 2, 7);
             this.tableLayoutPanel1.Controls.Add(this.label107, 1, 7);
-            this.tableLayoutPanel1.Controls.Add(this.label106, 0, 7);
-            this.tableLayoutPanel1.Controls.Add(this.label105, 14, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label104, 13, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label103, 12, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label102, 11, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label101, 10, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label100, 9, 6);
             this.tableLayoutPanel1.Controls.Add(this.label99, 8, 6);
             this.tableLayoutPanel1.Controls.Add(this.label98, 7, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label97, 6, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label96, 5, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label95, 4, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label94, 3, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label93, 2, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label92, 1, 6);
-            this.tableLayoutPanel1.Controls.Add(this.label91, 0, 6);
             this.tableLayoutPanel1.Controls.Add(this.label90, 14, 5);
             this.tableLayoutPanel1.Controls.Add(this.label89, 13, 5);
             this.tableLayoutPanel1.Controls.Add(this.label88, 12, 5);
             this.tableLayoutPanel1.Controls.Add(this.label87, 11, 5);
             this.tableLayoutPanel1.Controls.Add(this.label86, 10, 5);
             this.tableLayoutPanel1.Controls.Add(this.label85, 9, 5);
-            this.tableLayoutPanel1.Controls.Add(this.label84, 8, 5);
             this.tableLayoutPanel1.Controls.Add(this.label83, 7, 5);
-            this.tableLayoutPanel1.Controls.Add(this.label82, 6, 5);
             this.tableLayoutPanel1.Controls.Add(this.label81, 5, 5);
             this.tableLayoutPanel1.Controls.Add(this.label80, 4, 5);
             this.tableLayoutPanel1.Controls.Add(this.label79, 3, 5);
@@ -452,9 +463,7 @@
             this.tableLayoutPanel1.Controls.Add(this.label72, 11, 4);
             this.tableLayoutPanel1.Controls.Add(this.label71, 10, 4);
             this.tableLayoutPanel1.Controls.Add(this.label70, 9, 4);
-            this.tableLayoutPanel1.Controls.Add(this.label69, 8, 4);
             this.tableLayoutPanel1.Controls.Add(this.label68, 7, 4);
-            this.tableLayoutPanel1.Controls.Add(this.label67, 6, 4);
             this.tableLayoutPanel1.Controls.Add(this.label66, 5, 4);
             this.tableLayoutPanel1.Controls.Add(this.label65, 4, 4);
             this.tableLayoutPanel1.Controls.Add(this.label64, 3, 4);
@@ -465,9 +474,7 @@
             this.tableLayoutPanel1.Controls.Add(this.label57, 11, 3);
             this.tableLayoutPanel1.Controls.Add(this.label56, 10, 3);
             this.tableLayoutPanel1.Controls.Add(this.label55, 9, 3);
-            this.tableLayoutPanel1.Controls.Add(this.label54, 8, 3);
             this.tableLayoutPanel1.Controls.Add(this.label53, 7, 3);
-            this.tableLayoutPanel1.Controls.Add(this.label52, 6, 3);
             this.tableLayoutPanel1.Controls.Add(this.label51, 5, 3);
             this.tableLayoutPanel1.Controls.Add(this.label50, 4, 3);
             this.tableLayoutPanel1.Controls.Add(this.label49, 3, 3);
@@ -476,9 +483,7 @@
             this.tableLayoutPanel1.Controls.Add(this.label44, 13, 2);
             this.tableLayoutPanel1.Controls.Add(this.label43, 12, 2);
             this.tableLayoutPanel1.Controls.Add(this.label40, 9, 2);
-            this.tableLayoutPanel1.Controls.Add(this.label39, 8, 2);
             this.tableLayoutPanel1.Controls.Add(this.label38, 7, 2);
-            this.tableLayoutPanel1.Controls.Add(this.label37, 6, 2);
             this.tableLayoutPanel1.Controls.Add(this.label36, 5, 2);
             this.tableLayoutPanel1.Controls.Add(this.label35, 4, 2);
             this.tableLayoutPanel1.Controls.Add(this.label34, 3, 2);
@@ -489,9 +494,7 @@
             this.tableLayoutPanel1.Controls.Add(this.label29, 13, 1);
             this.tableLayoutPanel1.Controls.Add(this.label28, 12, 1);
             this.tableLayoutPanel1.Controls.Add(this.label25, 9, 1);
-            this.tableLayoutPanel1.Controls.Add(this.label24, 8, 1);
             this.tableLayoutPanel1.Controls.Add(this.label23, 7, 1);
-            this.tableLayoutPanel1.Controls.Add(this.label22, 6, 1);
             this.tableLayoutPanel1.Controls.Add(this.label21, 5, 1);
             this.tableLayoutPanel1.Controls.Add(this.label20, 4, 1);
             this.tableLayoutPanel1.Controls.Add(this.label19, 3, 1);
@@ -504,9 +507,6 @@
             this.tableLayoutPanel1.Controls.Add(this.label12, 11, 0);
             this.tableLayoutPanel1.Controls.Add(this.label11, 10, 0);
             this.tableLayoutPanel1.Controls.Add(this.label10, 9, 0);
-            this.tableLayoutPanel1.Controls.Add(this.label9, 8, 0);
-            this.tableLayoutPanel1.Controls.Add(this.label8, 7, 0);
-            this.tableLayoutPanel1.Controls.Add(this.label7, 6, 0);
             this.tableLayoutPanel1.Controls.Add(this.label6, 5, 0);
             this.tableLayoutPanel1.Controls.Add(this.label5, 4, 0);
             this.tableLayoutPanel1.Controls.Add(this.label4, 3, 0);
@@ -534,13 +534,53 @@
             this.tableLayoutPanel1.Controls.Add(this.pictureBox3, 6, 11);
             this.tableLayoutPanel1.Controls.Add(this.pictureBox4, 6, 10);
             this.tableLayoutPanel1.Controls.Add(this.pictureBox5, 6, 9);
-            this.tableLayoutPanel1.Controls.Add(this.pictureBox6, 6, 8);
-            this.tableLayoutPanel1.Controls.Add(this.pictureBox7, 5, 8);
-            this.tableLayoutPanel1.Controls.Add(this.pictureBox8, 4, 8);
-            this.tableLayoutPanel1.Controls.Add(this.pictureBox9, 3, 8);
-            this.tableLayoutPanel1.Controls.Add(this.pictureBox10, 2, 8);
-            this.tableLayoutPanel1.Controls.Add(this.pictureBox11, 1, 8);
-            this.tableLayoutPanel1.Controls.Add(this.pictureBox12, 0, 8);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox6, 5, 8);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox7, 4, 8);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox8, 3, 8);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox9, 2, 8);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox10, 1, 8);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox11, 0, 8);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox12, 0, 7);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox13, 0, 6);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox14, 1, 6);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox15, 2, 6);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox16, 3, 6);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox17, 4, 6);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox18, 5, 6);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox19, 6, 5);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox20, 6, 4);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox21, 6, 3);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox22, 6, 2);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox23, 6, 1);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox24, 6, 0);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox25, 7, 0);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox26, 8, 0);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox27, 8, 1);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox28, 8, 2);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox29, 8, 3);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox30, 8, 4);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox31, 8, 5);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox32, 9, 6);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox33, 10, 6);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox34, 11, 6);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox35, 12, 6);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox36, 13, 6);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox37, 14, 6);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox38, 14, 7);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox39, 14, 8);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox40, 13, 8);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox41, 12, 8);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox42, 11, 8);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox43, 10, 8);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox44, 9, 8);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox45, 8, 9);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox46, 8, 10);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox47, 8, 11);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox48, 8, 12);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox49, 8, 13);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox50, 8, 14);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox51, 7, 14);
+            this.tableLayoutPanel1.Controls.Add(this.pictureBox52, 6, 14);
             this.tableLayoutPanel1.Location = new System.Drawing.Point(131, 44);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 15;
@@ -562,6 +602,29 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(633, 571);
             this.tableLayoutPanel1.TabIndex = 1;
+            // 
+            // label52
+            // 
+            this.label52.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.label52.AutoSize = true;
+            this.label52.Location = new System.Drawing.Point(257, 230);
+            this.label52.Name = "label52";
+            this.label52.Size = new System.Drawing.Size(32, 34);
+            this.label52.TabIndex = 309;
+            this.label52.Text = "            ";
+            this.label52.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label106
+            // 
+            this.label106.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.label106.AutoSize = true;
+            this.label106.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.label106.Location = new System.Drawing.Point(259, 306);
+            this.label106.Name = "label106";
+            this.label106.Size = new System.Drawing.Size(32, 34);
+            this.label106.TabIndex = 280;
+            this.label106.Text = "            ";
+            this.label106.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label225
             // 
@@ -628,42 +691,6 @@
             this.label220.TabIndex = 219;
             this.label220.Text = "            ";
             this.label220.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label219
-            // 
-            this.label219.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label219.AutoSize = true;
-            this.label219.BackColor = System.Drawing.Color.White;
-            this.label219.Location = new System.Drawing.Point(341, 534);
-            this.label219.Name = "label219";
-            this.label219.Size = new System.Drawing.Size(32, 34);
-            this.label219.TabIndex = 218;
-            this.label219.Text = "            ";
-            this.label219.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label218
-            // 
-            this.label218.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label218.AutoSize = true;
-            this.label218.BackColor = System.Drawing.Color.White;
-            this.label218.Location = new System.Drawing.Point(299, 534);
-            this.label218.Name = "label218";
-            this.label218.Size = new System.Drawing.Size(32, 34);
-            this.label218.TabIndex = 217;
-            this.label218.Text = "            ";
-            this.label218.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label217
-            // 
-            this.label217.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label217.AutoSize = true;
-            this.label217.BackColor = System.Drawing.Color.White;
-            this.label217.Location = new System.Drawing.Point(257, 534);
-            this.label217.Name = "label217";
-            this.label217.Size = new System.Drawing.Size(32, 34);
-            this.label217.TabIndex = 216;
-            this.label217.Text = "            ";
-            this.label217.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label216
             // 
@@ -797,18 +824,6 @@
             this.label205.Text = "            ";
             this.label205.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label204
-            // 
-            this.label204.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label204.AutoSize = true;
-            this.label204.BackColor = System.Drawing.Color.White;
-            this.label204.Location = new System.Drawing.Point(341, 496);
-            this.label204.Name = "label204";
-            this.label204.Size = new System.Drawing.Size(32, 34);
-            this.label204.TabIndex = 203;
-            this.label204.Text = "            ";
-            this.label204.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // label203
             // 
             this.label203.Anchor = System.Windows.Forms.AnchorStyles.None;
@@ -931,18 +946,6 @@
             this.label190.Text = "            ";
             this.label190.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label189
-            // 
-            this.label189.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label189.AutoSize = true;
-            this.label189.BackColor = System.Drawing.Color.White;
-            this.label189.Location = new System.Drawing.Point(341, 458);
-            this.label189.Name = "label189";
-            this.label189.Size = new System.Drawing.Size(32, 34);
-            this.label189.TabIndex = 188;
-            this.label189.Text = "            ";
-            this.label189.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // label188
             // 
             this.label188.Anchor = System.Windows.Forms.AnchorStyles.None;
@@ -1042,18 +1045,6 @@
             this.label175.TabIndex = 174;
             this.label175.Text = "            ";
             this.label175.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label174
-            // 
-            this.label174.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label174.AutoSize = true;
-            this.label174.BackColor = System.Drawing.Color.White;
-            this.label174.Location = new System.Drawing.Point(341, 420);
-            this.label174.Name = "label174";
-            this.label174.Size = new System.Drawing.Size(32, 34);
-            this.label174.TabIndex = 173;
-            this.label174.Text = "            ";
-            this.label174.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label173
             // 
@@ -1176,18 +1167,6 @@
             this.label160.TabIndex = 159;
             this.label160.Text = "            ";
             this.label160.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label159
-            // 
-            this.label159.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label159.AutoSize = true;
-            this.label159.BackColor = System.Drawing.Color.White;
-            this.label159.Location = new System.Drawing.Point(341, 382);
-            this.label159.Name = "label159";
-            this.label159.Size = new System.Drawing.Size(32, 34);
-            this.label159.TabIndex = 158;
-            this.label159.Text = "            ";
-            this.label159.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label158
             // 
@@ -1333,18 +1312,6 @@
             this.label145.Text = "            ";
             this.label145.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label144
-            // 
-            this.label144.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label144.AutoSize = true;
-            this.label144.BackColor = System.Drawing.Color.White;
-            this.label144.Location = new System.Drawing.Point(341, 344);
-            this.label144.Name = "label144";
-            this.label144.Size = new System.Drawing.Size(32, 34);
-            this.label144.TabIndex = 143;
-            this.label144.Text = "            ";
-            this.label144.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // label143
             // 
             this.label143.Anchor = System.Windows.Forms.AnchorStyles.None;
@@ -1423,84 +1390,12 @@
             this.label136.Text = "            ";
             this.label136.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label135
-            // 
-            this.label135.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label135.AutoSize = true;
-            this.label135.BackColor = System.Drawing.Color.White;
-            this.label135.Location = new System.Drawing.Point(594, 306);
-            this.label135.Name = "label135";
-            this.label135.Size = new System.Drawing.Size(32, 34);
-            this.label135.TabIndex = 134;
-            this.label135.Text = "            ";
-            this.label135.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label134
-            // 
-            this.label134.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label134.AutoSize = true;
-            this.label134.BackColor = System.Drawing.Color.LimeGreen;
-            this.label134.Location = new System.Drawing.Point(551, 306);
-            this.label134.Name = "label134";
-            this.label134.Size = new System.Drawing.Size(32, 34);
-            this.label134.TabIndex = 133;
-            this.label134.Text = "            ";
-            this.label134.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label133
-            // 
-            this.label133.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label133.AutoSize = true;
-            this.label133.BackColor = System.Drawing.Color.White;
-            this.label133.Location = new System.Drawing.Point(509, 306);
-            this.label133.Name = "label133";
-            this.label133.Size = new System.Drawing.Size(32, 34);
-            this.label133.TabIndex = 132;
-            this.label133.Text = "            ";
-            this.label133.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label132
-            // 
-            this.label132.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label132.AutoSize = true;
-            this.label132.BackColor = System.Drawing.Color.White;
-            this.label132.Location = new System.Drawing.Point(467, 306);
-            this.label132.Name = "label132";
-            this.label132.Size = new System.Drawing.Size(32, 34);
-            this.label132.TabIndex = 131;
-            this.label132.Text = "            ";
-            this.label132.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label131
-            // 
-            this.label131.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label131.AutoSize = true;
-            this.label131.BackColor = System.Drawing.Color.White;
-            this.label131.Location = new System.Drawing.Point(425, 306);
-            this.label131.Name = "label131";
-            this.label131.Size = new System.Drawing.Size(32, 34);
-            this.label131.TabIndex = 130;
-            this.label131.Text = "            ";
-            this.label131.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label130
-            // 
-            this.label130.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label130.AutoSize = true;
-            this.label130.BackColor = System.Drawing.Color.White;
-            this.label130.Location = new System.Drawing.Point(383, 306);
-            this.label130.Name = "label130";
-            this.label130.Size = new System.Drawing.Size(32, 34);
-            this.label130.TabIndex = 129;
-            this.label130.Text = "            ";
-            this.label130.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // label129
             // 
-            this.label129.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.label129.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.label129.AutoSize = true;
-            this.label129.BackColor = System.Drawing.SystemColors.InactiveBorder;
-            this.label129.Location = new System.Drawing.Point(341, 306);
+            this.label129.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.label129.Location = new System.Drawing.Point(343, 306);
             this.label129.Name = "label129";
             this.label129.Size = new System.Drawing.Size(32, 34);
             this.label129.TabIndex = 128;
@@ -1511,25 +1406,13 @@
             // 
             this.label128.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label128.AutoSize = true;
-            this.label128.BackColor = System.Drawing.Color.LightYellow;
+            this.label128.BackColor = System.Drawing.Color.Pink;
             this.label128.Location = new System.Drawing.Point(299, 306);
             this.label128.Name = "label128";
             this.label128.Size = new System.Drawing.Size(32, 34);
             this.label128.TabIndex = 127;
             this.label128.Text = "            ";
             this.label128.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label120
-            // 
-            this.label120.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label120.AutoSize = true;
-            this.label120.BackColor = System.Drawing.Color.White;
-            this.label120.Location = new System.Drawing.Point(594, 268);
-            this.label120.Name = "label120";
-            this.label120.Size = new System.Drawing.Size(32, 34);
-            this.label120.TabIndex = 119;
-            this.label120.Text = "            ";
-            this.label120.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label119
             // 
@@ -1595,7 +1478,7 @@
             // 
             this.label114.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label114.AutoSize = true;
-            this.label114.BackColor = System.Drawing.Color.LimeGreen;
+            this.label114.BackColor = System.Drawing.Color.Pink;
             this.label114.Location = new System.Drawing.Point(341, 268);
             this.label114.Name = "label114";
             this.label114.Size = new System.Drawing.Size(32, 34);
@@ -1619,7 +1502,7 @@
             // 
             this.label112.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label112.AutoSize = true;
-            this.label112.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.label112.BackColor = System.Drawing.Color.Pink;
             this.label112.Location = new System.Drawing.Point(257, 268);
             this.label112.Name = "label112";
             this.label112.Size = new System.Drawing.Size(32, 34);
@@ -1631,7 +1514,7 @@
             // 
             this.label111.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label111.AutoSize = true;
-            this.label111.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.label111.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.label111.Location = new System.Drawing.Point(215, 268);
             this.label111.Name = "label111";
             this.label111.Size = new System.Drawing.Size(32, 34);
@@ -1643,7 +1526,7 @@
             // 
             this.label110.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label110.AutoSize = true;
-            this.label110.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.label110.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.label110.Location = new System.Drawing.Point(173, 268);
             this.label110.Name = "label110";
             this.label110.Size = new System.Drawing.Size(32, 34);
@@ -1655,7 +1538,7 @@
             // 
             this.label109.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label109.AutoSize = true;
-            this.label109.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.label109.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.label109.Location = new System.Drawing.Point(131, 268);
             this.label109.Name = "label109";
             this.label109.Size = new System.Drawing.Size(32, 34);
@@ -1667,7 +1550,7 @@
             // 
             this.label108.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label108.AutoSize = true;
-            this.label108.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.label108.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.label108.Location = new System.Drawing.Point(89, 268);
             this.label108.Name = "label108";
             this.label108.Size = new System.Drawing.Size(32, 34);
@@ -1679,7 +1562,7 @@
             // 
             this.label107.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label107.AutoSize = true;
-            this.label107.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.label107.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.label107.Location = new System.Drawing.Point(47, 268);
             this.label107.Name = "label107";
             this.label107.Size = new System.Drawing.Size(32, 34);
@@ -1687,96 +1570,12 @@
             this.label107.Text = "            ";
             this.label107.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label106
-            // 
-            this.label106.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label106.AutoSize = true;
-            this.label106.BackColor = System.Drawing.Color.White;
-            this.label106.Location = new System.Drawing.Point(5, 268);
-            this.label106.Name = "label106";
-            this.label106.Size = new System.Drawing.Size(32, 34);
-            this.label106.TabIndex = 105;
-            this.label106.Text = "            ";
-            this.label106.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label105
-            // 
-            this.label105.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label105.AutoSize = true;
-            this.label105.BackColor = System.Drawing.Color.White;
-            this.label105.Location = new System.Drawing.Point(594, 230);
-            this.label105.Name = "label105";
-            this.label105.Size = new System.Drawing.Size(32, 34);
-            this.label105.TabIndex = 104;
-            this.label105.Text = "            ";
-            this.label105.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label104
-            // 
-            this.label104.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label104.AutoSize = true;
-            this.label104.BackColor = System.Drawing.Color.White;
-            this.label104.Location = new System.Drawing.Point(551, 230);
-            this.label104.Name = "label104";
-            this.label104.Size = new System.Drawing.Size(32, 34);
-            this.label104.TabIndex = 103;
-            this.label104.Text = "            ";
-            this.label104.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label103
-            // 
-            this.label103.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label103.AutoSize = true;
-            this.label103.BackColor = System.Drawing.Color.White;
-            this.label103.Location = new System.Drawing.Point(509, 230);
-            this.label103.Name = "label103";
-            this.label103.Size = new System.Drawing.Size(32, 34);
-            this.label103.TabIndex = 102;
-            this.label103.Text = "            ";
-            this.label103.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label102
-            // 
-            this.label102.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label102.AutoSize = true;
-            this.label102.BackColor = System.Drawing.Color.White;
-            this.label102.Location = new System.Drawing.Point(467, 230);
-            this.label102.Name = "label102";
-            this.label102.Size = new System.Drawing.Size(32, 34);
-            this.label102.TabIndex = 101;
-            this.label102.Text = "            ";
-            this.label102.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label101
-            // 
-            this.label101.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label101.AutoSize = true;
-            this.label101.BackColor = System.Drawing.Color.White;
-            this.label101.Location = new System.Drawing.Point(425, 230);
-            this.label101.Name = "label101";
-            this.label101.Size = new System.Drawing.Size(32, 34);
-            this.label101.TabIndex = 100;
-            this.label101.Text = "            ";
-            this.label101.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label100
-            // 
-            this.label100.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label100.AutoSize = true;
-            this.label100.BackColor = System.Drawing.Color.White;
-            this.label100.Location = new System.Drawing.Point(383, 230);
-            this.label100.Name = "label100";
-            this.label100.Size = new System.Drawing.Size(32, 34);
-            this.label100.TabIndex = 99;
-            this.label100.Text = "            ";
-            this.label100.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // label99
             // 
-            this.label99.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.label99.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.label99.AutoSize = true;
-            this.label99.BackColor = System.Drawing.SystemColors.InactiveBorder;
-            this.label99.Location = new System.Drawing.Point(341, 230);
+            this.label99.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.label99.Location = new System.Drawing.Point(343, 230);
             this.label99.Name = "label99";
             this.label99.Size = new System.Drawing.Size(32, 34);
             this.label99.TabIndex = 98;
@@ -1787,97 +1586,13 @@
             // 
             this.label98.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label98.AutoSize = true;
-            this.label98.BackColor = System.Drawing.Color.Coral;
+            this.label98.BackColor = System.Drawing.Color.Pink;
             this.label98.Location = new System.Drawing.Point(299, 230);
             this.label98.Name = "label98";
             this.label98.Size = new System.Drawing.Size(32, 34);
             this.label98.TabIndex = 97;
             this.label98.Text = "            ";
             this.label98.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label97
-            // 
-            this.label97.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label97.AutoSize = true;
-            this.label97.BackColor = System.Drawing.SystemColors.InactiveBorder;
-            this.label97.Location = new System.Drawing.Point(257, 230);
-            this.label97.Name = "label97";
-            this.label97.Size = new System.Drawing.Size(32, 34);
-            this.label97.TabIndex = 96;
-            this.label97.Text = "            ";
-            this.label97.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label96
-            // 
-            this.label96.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label96.AutoSize = true;
-            this.label96.BackColor = System.Drawing.Color.White;
-            this.label96.Location = new System.Drawing.Point(215, 230);
-            this.label96.Name = "label96";
-            this.label96.Size = new System.Drawing.Size(32, 34);
-            this.label96.TabIndex = 95;
-            this.label96.Text = "            ";
-            this.label96.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label95
-            // 
-            this.label95.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label95.AutoSize = true;
-            this.label95.BackColor = System.Drawing.Color.White;
-            this.label95.Location = new System.Drawing.Point(173, 230);
-            this.label95.Name = "label95";
-            this.label95.Size = new System.Drawing.Size(32, 34);
-            this.label95.TabIndex = 94;
-            this.label95.Text = "            ";
-            this.label95.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label94
-            // 
-            this.label94.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label94.AutoSize = true;
-            this.label94.BackColor = System.Drawing.Color.White;
-            this.label94.Location = new System.Drawing.Point(131, 230);
-            this.label94.Name = "label94";
-            this.label94.Size = new System.Drawing.Size(32, 34);
-            this.label94.TabIndex = 93;
-            this.label94.Text = "            ";
-            this.label94.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label93
-            // 
-            this.label93.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label93.AutoSize = true;
-            this.label93.BackColor = System.Drawing.Color.White;
-            this.label93.Location = new System.Drawing.Point(89, 230);
-            this.label93.Name = "label93";
-            this.label93.Size = new System.Drawing.Size(32, 34);
-            this.label93.TabIndex = 92;
-            this.label93.Text = "            ";
-            this.label93.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label92
-            // 
-            this.label92.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label92.AutoSize = true;
-            this.label92.BackColor = System.Drawing.Color.CornflowerBlue;
-            this.label92.Location = new System.Drawing.Point(47, 230);
-            this.label92.Name = "label92";
-            this.label92.Size = new System.Drawing.Size(32, 34);
-            this.label92.TabIndex = 91;
-            this.label92.Text = "            ";
-            this.label92.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label91
-            // 
-            this.label91.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label91.AutoSize = true;
-            this.label91.BackColor = System.Drawing.Color.White;
-            this.label91.Location = new System.Drawing.Point(5, 230);
-            this.label91.Name = "label91";
-            this.label91.Size = new System.Drawing.Size(32, 34);
-            this.label91.TabIndex = 90;
-            this.label91.Text = "            ";
-            this.label91.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label90
             // 
@@ -1945,41 +1660,17 @@
             this.label85.Text = "            ";
             this.label85.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label84
-            // 
-            this.label84.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label84.AutoSize = true;
-            this.label84.BackColor = System.Drawing.Color.White;
-            this.label84.Location = new System.Drawing.Point(341, 192);
-            this.label84.Name = "label84";
-            this.label84.Size = new System.Drawing.Size(32, 34);
-            this.label84.TabIndex = 83;
-            this.label84.Text = "            ";
-            this.label84.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // label83
             // 
             this.label83.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label83.AutoSize = true;
-            this.label83.BackColor = System.Drawing.Color.Coral;
+            this.label83.BackColor = System.Drawing.Color.Tomato;
             this.label83.Location = new System.Drawing.Point(299, 192);
             this.label83.Name = "label83";
             this.label83.Size = new System.Drawing.Size(32, 34);
             this.label83.TabIndex = 82;
             this.label83.Text = "            ";
             this.label83.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label82
-            // 
-            this.label82.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label82.AutoSize = true;
-            this.label82.BackColor = System.Drawing.Color.White;
-            this.label82.Location = new System.Drawing.Point(257, 192);
-            this.label82.Name = "label82";
-            this.label82.Size = new System.Drawing.Size(32, 34);
-            this.label82.TabIndex = 81;
-            this.label82.Text = "            ";
-            this.label82.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label81
             // 
@@ -2113,41 +1804,17 @@
             this.label70.Text = "            ";
             this.label70.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label69
-            // 
-            this.label69.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label69.AutoSize = true;
-            this.label69.BackColor = System.Drawing.Color.White;
-            this.label69.Location = new System.Drawing.Point(341, 154);
-            this.label69.Name = "label69";
-            this.label69.Size = new System.Drawing.Size(32, 34);
-            this.label69.TabIndex = 68;
-            this.label69.Text = "            ";
-            this.label69.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // label68
             // 
             this.label68.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label68.AutoSize = true;
-            this.label68.BackColor = System.Drawing.Color.Coral;
+            this.label68.BackColor = System.Drawing.Color.Tomato;
             this.label68.Location = new System.Drawing.Point(299, 154);
             this.label68.Name = "label68";
             this.label68.Size = new System.Drawing.Size(32, 34);
             this.label68.TabIndex = 67;
             this.label68.Text = "            ";
             this.label68.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label67
-            // 
-            this.label67.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label67.AutoSize = true;
-            this.label67.BackColor = System.Drawing.Color.White;
-            this.label67.Location = new System.Drawing.Point(257, 154);
-            this.label67.Name = "label67";
-            this.label67.Size = new System.Drawing.Size(32, 34);
-            this.label67.TabIndex = 66;
-            this.label67.Text = "            ";
-            this.label67.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label66
             // 
@@ -2259,41 +1926,17 @@
             this.label55.Text = "            ";
             this.label55.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label54
-            // 
-            this.label54.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label54.AutoSize = true;
-            this.label54.BackColor = System.Drawing.Color.White;
-            this.label54.Location = new System.Drawing.Point(341, 116);
-            this.label54.Name = "label54";
-            this.label54.Size = new System.Drawing.Size(32, 34);
-            this.label54.TabIndex = 53;
-            this.label54.Text = "            ";
-            this.label54.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // label53
             // 
             this.label53.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label53.AutoSize = true;
-            this.label53.BackColor = System.Drawing.Color.Coral;
+            this.label53.BackColor = System.Drawing.Color.Tomato;
             this.label53.Location = new System.Drawing.Point(299, 116);
             this.label53.Name = "label53";
             this.label53.Size = new System.Drawing.Size(32, 34);
             this.label53.TabIndex = 52;
             this.label53.Text = "            ";
             this.label53.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label52
-            // 
-            this.label52.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label52.AutoSize = true;
-            this.label52.BackColor = System.Drawing.Color.White;
-            this.label52.Location = new System.Drawing.Point(257, 116);
-            this.label52.Name = "label52";
-            this.label52.Size = new System.Drawing.Size(32, 34);
-            this.label52.TabIndex = 51;
-            this.label52.Text = "            ";
-            this.label52.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label51
             // 
@@ -2383,41 +2026,17 @@
             this.label40.Text = "            ";
             this.label40.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label39
-            // 
-            this.label39.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label39.AutoSize = true;
-            this.label39.BackColor = System.Drawing.Color.White;
-            this.label39.Location = new System.Drawing.Point(341, 78);
-            this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(32, 34);
-            this.label39.TabIndex = 38;
-            this.label39.Text = "            ";
-            this.label39.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // label38
             // 
             this.label38.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label38.AutoSize = true;
-            this.label38.BackColor = System.Drawing.Color.Coral;
+            this.label38.BackColor = System.Drawing.Color.Tomato;
             this.label38.Location = new System.Drawing.Point(299, 78);
             this.label38.Name = "label38";
             this.label38.Size = new System.Drawing.Size(32, 34);
             this.label38.TabIndex = 37;
             this.label38.Text = "            ";
             this.label38.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label37
-            // 
-            this.label37.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label37.AutoSize = true;
-            this.label37.BackColor = System.Drawing.Color.White;
-            this.label37.Location = new System.Drawing.Point(257, 78);
-            this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(32, 34);
-            this.label37.TabIndex = 36;
-            this.label37.Text = "            ";
-            this.label37.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label36
             // 
@@ -2529,41 +2148,17 @@
             this.label25.Text = "            ";
             this.label25.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label24
-            // 
-            this.label24.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label24.AutoSize = true;
-            this.label24.BackColor = System.Drawing.Color.Coral;
-            this.label24.Location = new System.Drawing.Point(341, 40);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(32, 34);
-            this.label24.TabIndex = 23;
-            this.label24.Text = "            ";
-            this.label24.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // label23
             // 
             this.label23.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label23.AutoSize = true;
-            this.label23.BackColor = System.Drawing.Color.Coral;
+            this.label23.BackColor = System.Drawing.Color.Tomato;
             this.label23.Location = new System.Drawing.Point(299, 40);
             this.label23.Name = "label23";
             this.label23.Size = new System.Drawing.Size(32, 34);
             this.label23.TabIndex = 22;
             this.label23.Text = "            ";
             this.label23.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label22
-            // 
-            this.label22.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label22.AutoSize = true;
-            this.label22.BackColor = System.Drawing.Color.White;
-            this.label22.Location = new System.Drawing.Point(257, 40);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(32, 34);
-            this.label22.TabIndex = 21;
-            this.label22.Text = "            ";
-            this.label22.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label21
             // 
@@ -2697,42 +2292,6 @@
             this.label10.Text = "            ";
             this.label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label9
-            // 
-            this.label9.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label9.AutoSize = true;
-            this.label9.BackColor = System.Drawing.Color.White;
-            this.label9.Location = new System.Drawing.Point(341, 2);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(32, 34);
-            this.label9.TabIndex = 8;
-            this.label9.Text = "            ";
-            this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label8
-            // 
-            this.label8.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label8.AutoSize = true;
-            this.label8.BackColor = System.Drawing.Color.White;
-            this.label8.Location = new System.Drawing.Point(299, 2);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(32, 34);
-            this.label8.TabIndex = 7;
-            this.label8.Text = "            ";
-            this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // label7
-            // 
-            this.label7.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label7.AutoSize = true;
-            this.label7.BackColor = System.Drawing.Color.White;
-            this.label7.Location = new System.Drawing.Point(257, 2);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(32, 34);
-            this.label7.TabIndex = 6;
-            this.label7.Text = "            ";
-            this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // label6
             // 
             this.label6.Anchor = System.Windows.Forms.AnchorStyles.None;
@@ -2838,7 +2397,7 @@
             // 
             // picBoxBlue4
             // 
-            this.picBoxBlue4.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.picBoxBlue4.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.picBoxBlue4.Location = new System.Drawing.Point(45, 117);
             this.picBoxBlue4.Name = "picBoxBlue4";
             this.picBoxBlue4.Size = new System.Drawing.Size(36, 32);
@@ -2847,7 +2406,7 @@
             // 
             // picBoxBlue3
             // 
-            this.picBoxBlue3.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.picBoxBlue3.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.picBoxBlue3.Location = new System.Drawing.Point(87, 117);
             this.picBoxBlue3.Name = "picBoxBlue3";
             this.picBoxBlue3.Size = new System.Drawing.Size(36, 32);
@@ -2856,7 +2415,7 @@
             // 
             // picBoxBlue1
             // 
-            this.picBoxBlue1.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.picBoxBlue1.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.picBoxBlue1.Location = new System.Drawing.Point(45, 155);
             this.picBoxBlue1.Name = "picBoxBlue1";
             this.picBoxBlue1.Size = new System.Drawing.Size(36, 32);
@@ -2865,7 +2424,7 @@
             // 
             // picBoxBlue2
             // 
-            this.picBoxBlue2.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.picBoxBlue2.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.picBoxBlue2.Location = new System.Drawing.Point(87, 155);
             this.picBoxBlue2.Name = "picBoxBlue2";
             this.picBoxBlue2.Size = new System.Drawing.Size(36, 32);
@@ -2910,7 +2469,7 @@
             // 
             // picBoxRed1
             // 
-            this.picBoxRed1.BackColor = System.Drawing.Color.Coral;
+            this.picBoxRed1.BackColor = System.Drawing.Color.Tomato;
             this.picBoxRed1.Location = new System.Drawing.Point(423, 41);
             this.picBoxRed1.Name = "picBoxRed1";
             this.picBoxRed1.Size = new System.Drawing.Size(36, 32);
@@ -2919,7 +2478,7 @@
             // 
             // picBoxRed4
             // 
-            this.picBoxRed4.BackColor = System.Drawing.Color.Coral;
+            this.picBoxRed4.BackColor = System.Drawing.Color.Tomato;
             this.picBoxRed4.Location = new System.Drawing.Point(465, 41);
             this.picBoxRed4.Name = "picBoxRed4";
             this.picBoxRed4.Size = new System.Drawing.Size(36, 32);
@@ -2928,7 +2487,7 @@
             // 
             // picBoxRed2
             // 
-            this.picBoxRed2.BackColor = System.Drawing.Color.Coral;
+            this.picBoxRed2.BackColor = System.Drawing.Color.Tomato;
             this.picBoxRed2.Location = new System.Drawing.Point(423, 79);
             this.picBoxRed2.Name = "picBoxRed2";
             this.picBoxRed2.Size = new System.Drawing.Size(36, 32);
@@ -2937,7 +2496,7 @@
             // 
             // picBoxRed3
             // 
-            this.picBoxRed3.BackColor = System.Drawing.Color.Coral;
+            this.picBoxRed3.BackColor = System.Drawing.Color.Tomato;
             this.picBoxRed3.Location = new System.Drawing.Point(465, 79);
             this.picBoxRed3.Name = "picBoxRed3";
             this.picBoxRed3.Size = new System.Drawing.Size(36, 32);
@@ -2992,65 +2551,425 @@
             // pictureBox6
             // 
             this.pictureBox6.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.pictureBox6.Location = new System.Drawing.Point(255, 307);
+            this.pictureBox6.Location = new System.Drawing.Point(213, 307);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(36, 32);
-            this.pictureBox6.TabIndex = 246;
+            this.pictureBox6.TabIndex = 283;
             this.pictureBox6.TabStop = false;
             // 
             // pictureBox7
             // 
             this.pictureBox7.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.pictureBox7.Location = new System.Drawing.Point(213, 307);
+            this.pictureBox7.Location = new System.Drawing.Point(171, 307);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(36, 32);
-            this.pictureBox7.TabIndex = 247;
+            this.pictureBox7.TabIndex = 284;
             this.pictureBox7.TabStop = false;
             // 
             // pictureBox8
             // 
             this.pictureBox8.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.pictureBox8.Location = new System.Drawing.Point(171, 307);
+            this.pictureBox8.Location = new System.Drawing.Point(129, 307);
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(36, 32);
-            this.pictureBox8.TabIndex = 248;
+            this.pictureBox8.TabIndex = 285;
             this.pictureBox8.TabStop = false;
             // 
             // pictureBox9
             // 
             this.pictureBox9.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.pictureBox9.Location = new System.Drawing.Point(129, 307);
+            this.pictureBox9.Location = new System.Drawing.Point(87, 307);
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(36, 32);
-            this.pictureBox9.TabIndex = 249;
+            this.pictureBox9.TabIndex = 286;
             this.pictureBox9.TabStop = false;
             // 
             // pictureBox10
             // 
             this.pictureBox10.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.pictureBox10.Location = new System.Drawing.Point(87, 307);
+            this.pictureBox10.Location = new System.Drawing.Point(45, 307);
             this.pictureBox10.Name = "pictureBox10";
             this.pictureBox10.Size = new System.Drawing.Size(36, 32);
-            this.pictureBox10.TabIndex = 250;
+            this.pictureBox10.TabIndex = 287;
             this.pictureBox10.TabStop = false;
             // 
             // pictureBox11
             // 
             this.pictureBox11.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.pictureBox11.Location = new System.Drawing.Point(45, 307);
+            this.pictureBox11.Location = new System.Drawing.Point(3, 307);
             this.pictureBox11.Name = "pictureBox11";
             this.pictureBox11.Size = new System.Drawing.Size(36, 32);
-            this.pictureBox11.TabIndex = 251;
+            this.pictureBox11.TabIndex = 288;
             this.pictureBox11.TabStop = false;
             // 
             // pictureBox12
             // 
             this.pictureBox12.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.pictureBox12.Location = new System.Drawing.Point(3, 307);
+            this.pictureBox12.Location = new System.Drawing.Point(3, 269);
             this.pictureBox12.Name = "pictureBox12";
             this.pictureBox12.Size = new System.Drawing.Size(36, 32);
-            this.pictureBox12.TabIndex = 252;
+            this.pictureBox12.TabIndex = 289;
             this.pictureBox12.TabStop = false;
+            // 
+            // pictureBox13
+            // 
+            this.pictureBox13.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox13.Location = new System.Drawing.Point(3, 231);
+            this.pictureBox13.Name = "pictureBox13";
+            this.pictureBox13.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox13.TabIndex = 290;
+            this.pictureBox13.TabStop = false;
+            // 
+            // pictureBox14
+            // 
+            this.pictureBox14.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.pictureBox14.Location = new System.Drawing.Point(45, 231);
+            this.pictureBox14.Name = "pictureBox14";
+            this.pictureBox14.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox14.TabIndex = 291;
+            this.pictureBox14.TabStop = false;
+            // 
+            // pictureBox15
+            // 
+            this.pictureBox15.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox15.Location = new System.Drawing.Point(87, 231);
+            this.pictureBox15.Name = "pictureBox15";
+            this.pictureBox15.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox15.TabIndex = 292;
+            this.pictureBox15.TabStop = false;
+            // 
+            // pictureBox16
+            // 
+            this.pictureBox16.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox16.Location = new System.Drawing.Point(129, 231);
+            this.pictureBox16.Name = "pictureBox16";
+            this.pictureBox16.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox16.TabIndex = 293;
+            this.pictureBox16.TabStop = false;
+            // 
+            // pictureBox17
+            // 
+            this.pictureBox17.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox17.Location = new System.Drawing.Point(171, 231);
+            this.pictureBox17.Name = "pictureBox17";
+            this.pictureBox17.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox17.TabIndex = 294;
+            this.pictureBox17.TabStop = false;
+            // 
+            // pictureBox18
+            // 
+            this.pictureBox18.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox18.Location = new System.Drawing.Point(213, 231);
+            this.pictureBox18.Name = "pictureBox18";
+            this.pictureBox18.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox18.TabIndex = 295;
+            this.pictureBox18.TabStop = false;
+            // 
+            // pictureBox19
+            // 
+            this.pictureBox19.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox19.Location = new System.Drawing.Point(255, 193);
+            this.pictureBox19.Name = "pictureBox19";
+            this.pictureBox19.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox19.TabIndex = 310;
+            this.pictureBox19.TabStop = false;
+            // 
+            // pictureBox20
+            // 
+            this.pictureBox20.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox20.Location = new System.Drawing.Point(255, 155);
+            this.pictureBox20.Name = "pictureBox20";
+            this.pictureBox20.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox20.TabIndex = 311;
+            this.pictureBox20.TabStop = false;
+            // 
+            // pictureBox21
+            // 
+            this.pictureBox21.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox21.Location = new System.Drawing.Point(255, 117);
+            this.pictureBox21.Name = "pictureBox21";
+            this.pictureBox21.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox21.TabIndex = 312;
+            this.pictureBox21.TabStop = false;
+            // 
+            // pictureBox22
+            // 
+            this.pictureBox22.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox22.Location = new System.Drawing.Point(255, 79);
+            this.pictureBox22.Name = "pictureBox22";
+            this.pictureBox22.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox22.TabIndex = 313;
+            this.pictureBox22.TabStop = false;
+            // 
+            // pictureBox23
+            // 
+            this.pictureBox23.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox23.Location = new System.Drawing.Point(255, 41);
+            this.pictureBox23.Name = "pictureBox23";
+            this.pictureBox23.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox23.TabIndex = 314;
+            this.pictureBox23.TabStop = false;
+            // 
+            // pictureBox24
+            // 
+            this.pictureBox24.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox24.Location = new System.Drawing.Point(255, 3);
+            this.pictureBox24.Name = "pictureBox24";
+            this.pictureBox24.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox24.TabIndex = 315;
+            this.pictureBox24.TabStop = false;
+            // 
+            // pictureBox25
+            // 
+            this.pictureBox25.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox25.Location = new System.Drawing.Point(297, 3);
+            this.pictureBox25.Name = "pictureBox25";
+            this.pictureBox25.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox25.TabIndex = 316;
+            this.pictureBox25.TabStop = false;
+            // 
+            // pictureBox26
+            // 
+            this.pictureBox26.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox26.Location = new System.Drawing.Point(339, 3);
+            this.pictureBox26.Name = "pictureBox26";
+            this.pictureBox26.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox26.TabIndex = 317;
+            this.pictureBox26.TabStop = false;
+            // 
+            // pictureBox27
+            // 
+            this.pictureBox27.BackColor = System.Drawing.Color.Tomato;
+            this.pictureBox27.Location = new System.Drawing.Point(339, 41);
+            this.pictureBox27.Name = "pictureBox27";
+            this.pictureBox27.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox27.TabIndex = 318;
+            this.pictureBox27.TabStop = false;
+            // 
+            // pictureBox28
+            // 
+            this.pictureBox28.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox28.Location = new System.Drawing.Point(339, 79);
+            this.pictureBox28.Name = "pictureBox28";
+            this.pictureBox28.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox28.TabIndex = 319;
+            this.pictureBox28.TabStop = false;
+            // 
+            // pictureBox29
+            // 
+            this.pictureBox29.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox29.Location = new System.Drawing.Point(339, 117);
+            this.pictureBox29.Name = "pictureBox29";
+            this.pictureBox29.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox29.TabIndex = 320;
+            this.pictureBox29.TabStop = false;
+            // 
+            // pictureBox30
+            // 
+            this.pictureBox30.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox30.Location = new System.Drawing.Point(339, 155);
+            this.pictureBox30.Name = "pictureBox30";
+            this.pictureBox30.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox30.TabIndex = 321;
+            this.pictureBox30.TabStop = false;
+            // 
+            // pictureBox31
+            // 
+            this.pictureBox31.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox31.Location = new System.Drawing.Point(339, 193);
+            this.pictureBox31.Name = "pictureBox31";
+            this.pictureBox31.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox31.TabIndex = 322;
+            this.pictureBox31.TabStop = false;
+            // 
+            // pictureBox32
+            // 
+            this.pictureBox32.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox32.Location = new System.Drawing.Point(381, 231);
+            this.pictureBox32.Name = "pictureBox32";
+            this.pictureBox32.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox32.TabIndex = 323;
+            this.pictureBox32.TabStop = false;
+            // 
+            // pictureBox33
+            // 
+            this.pictureBox33.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox33.Location = new System.Drawing.Point(423, 231);
+            this.pictureBox33.Name = "pictureBox33";
+            this.pictureBox33.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox33.TabIndex = 324;
+            this.pictureBox33.TabStop = false;
+            // 
+            // pictureBox34
+            // 
+            this.pictureBox34.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox34.Location = new System.Drawing.Point(465, 231);
+            this.pictureBox34.Name = "pictureBox34";
+            this.pictureBox34.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox34.TabIndex = 325;
+            this.pictureBox34.TabStop = false;
+            // 
+            // pictureBox35
+            // 
+            this.pictureBox35.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox35.Location = new System.Drawing.Point(507, 231);
+            this.pictureBox35.Name = "pictureBox35";
+            this.pictureBox35.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox35.TabIndex = 326;
+            this.pictureBox35.TabStop = false;
+            // 
+            // pictureBox36
+            // 
+            this.pictureBox36.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox36.Location = new System.Drawing.Point(549, 231);
+            this.pictureBox36.Name = "pictureBox36";
+            this.pictureBox36.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox36.TabIndex = 327;
+            this.pictureBox36.TabStop = false;
+            // 
+            // pictureBox37
+            // 
+            this.pictureBox37.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox37.Location = new System.Drawing.Point(591, 231);
+            this.pictureBox37.Name = "pictureBox37";
+            this.pictureBox37.Size = new System.Drawing.Size(39, 32);
+            this.pictureBox37.TabIndex = 328;
+            this.pictureBox37.TabStop = false;
+            // 
+            // pictureBox38
+            // 
+            this.pictureBox38.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox38.Location = new System.Drawing.Point(591, 269);
+            this.pictureBox38.Name = "pictureBox38";
+            this.pictureBox38.Size = new System.Drawing.Size(39, 32);
+            this.pictureBox38.TabIndex = 329;
+            this.pictureBox38.TabStop = false;
+            // 
+            // pictureBox39
+            // 
+            this.pictureBox39.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox39.Location = new System.Drawing.Point(591, 307);
+            this.pictureBox39.Name = "pictureBox39";
+            this.pictureBox39.Size = new System.Drawing.Size(39, 32);
+            this.pictureBox39.TabIndex = 330;
+            this.pictureBox39.TabStop = false;
+            // 
+            // pictureBox40
+            // 
+            this.pictureBox40.BackColor = System.Drawing.Color.LimeGreen;
+            this.pictureBox40.Location = new System.Drawing.Point(549, 307);
+            this.pictureBox40.Name = "pictureBox40";
+            this.pictureBox40.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox40.TabIndex = 331;
+            this.pictureBox40.TabStop = false;
+            // 
+            // pictureBox41
+            // 
+            this.pictureBox41.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox41.Location = new System.Drawing.Point(507, 307);
+            this.pictureBox41.Name = "pictureBox41";
+            this.pictureBox41.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox41.TabIndex = 332;
+            this.pictureBox41.TabStop = false;
+            // 
+            // pictureBox42
+            // 
+            this.pictureBox42.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox42.Location = new System.Drawing.Point(465, 307);
+            this.pictureBox42.Name = "pictureBox42";
+            this.pictureBox42.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox42.TabIndex = 333;
+            this.pictureBox42.TabStop = false;
+            // 
+            // pictureBox43
+            // 
+            this.pictureBox43.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox43.Location = new System.Drawing.Point(423, 307);
+            this.pictureBox43.Name = "pictureBox43";
+            this.pictureBox43.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox43.TabIndex = 334;
+            this.pictureBox43.TabStop = false;
+            // 
+            // pictureBox44
+            // 
+            this.pictureBox44.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox44.Location = new System.Drawing.Point(381, 307);
+            this.pictureBox44.Name = "pictureBox44";
+            this.pictureBox44.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox44.TabIndex = 335;
+            this.pictureBox44.TabStop = false;
+            // 
+            // pictureBox45
+            // 
+            this.pictureBox45.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox45.Location = new System.Drawing.Point(339, 345);
+            this.pictureBox45.Name = "pictureBox45";
+            this.pictureBox45.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox45.TabIndex = 336;
+            this.pictureBox45.TabStop = false;
+            // 
+            // pictureBox46
+            // 
+            this.pictureBox46.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox46.Location = new System.Drawing.Point(339, 383);
+            this.pictureBox46.Name = "pictureBox46";
+            this.pictureBox46.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox46.TabIndex = 337;
+            this.pictureBox46.TabStop = false;
+            // 
+            // pictureBox47
+            // 
+            this.pictureBox47.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox47.Location = new System.Drawing.Point(339, 421);
+            this.pictureBox47.Name = "pictureBox47";
+            this.pictureBox47.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox47.TabIndex = 338;
+            this.pictureBox47.TabStop = false;
+            // 
+            // pictureBox48
+            // 
+            this.pictureBox48.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox48.Location = new System.Drawing.Point(339, 459);
+            this.pictureBox48.Name = "pictureBox48";
+            this.pictureBox48.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox48.TabIndex = 339;
+            this.pictureBox48.TabStop = false;
+            // 
+            // pictureBox49
+            // 
+            this.pictureBox49.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox49.Location = new System.Drawing.Point(339, 497);
+            this.pictureBox49.Name = "pictureBox49";
+            this.pictureBox49.Size = new System.Drawing.Size(36, 32);
+            this.pictureBox49.TabIndex = 340;
+            this.pictureBox49.TabStop = false;
+            // 
+            // pictureBox50
+            // 
+            this.pictureBox50.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox50.Location = new System.Drawing.Point(339, 535);
+            this.pictureBox50.Name = "pictureBox50";
+            this.pictureBox50.Size = new System.Drawing.Size(36, 33);
+            this.pictureBox50.TabIndex = 341;
+            this.pictureBox50.TabStop = false;
+            // 
+            // pictureBox51
+            // 
+            this.pictureBox51.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox51.Location = new System.Drawing.Point(297, 535);
+            this.pictureBox51.Name = "pictureBox51";
+            this.pictureBox51.Size = new System.Drawing.Size(36, 33);
+            this.pictureBox51.TabIndex = 342;
+            this.pictureBox51.TabStop = false;
+            // 
+            // pictureBox52
+            // 
+            this.pictureBox52.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.pictureBox52.Location = new System.Drawing.Point(255, 535);
+            this.pictureBox52.Name = "pictureBox52";
+            this.pictureBox52.Size = new System.Drawing.Size(36, 33);
+            this.pictureBox52.TabIndex = 343;
+            this.pictureBox52.TabStop = false;
             // 
             // button1
             // 
@@ -3114,6 +3033,46 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox28)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox31)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox32)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox33)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox34)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox35)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox36)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox37)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox38)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox39)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox40)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox41)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox42)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox43)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox44)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox45)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox46)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox47)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox48)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox49)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox50)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox51)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox52)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -3128,9 +3087,6 @@
         private System.Windows.Forms.Label label222;
         private System.Windows.Forms.Label label221;
         private System.Windows.Forms.Label label220;
-        private System.Windows.Forms.Label label219;
-        private System.Windows.Forms.Label label218;
-        private System.Windows.Forms.Label label217;
         private System.Windows.Forms.Label label216;
         private System.Windows.Forms.Label label215;
         private System.Windows.Forms.Label label214;
@@ -3143,7 +3099,6 @@
         private System.Windows.Forms.Label label207;
         private System.Windows.Forms.Label label206;
         private System.Windows.Forms.Label label205;
-        private System.Windows.Forms.Label label204;
         private System.Windows.Forms.Label label203;
         private System.Windows.Forms.Label label201;
         private System.Windows.Forms.Label label198;
@@ -3155,7 +3110,6 @@
         private System.Windows.Forms.Label label192;
         private System.Windows.Forms.Label label191;
         private System.Windows.Forms.Label label190;
-        private System.Windows.Forms.Label label189;
         private System.Windows.Forms.Label label188;
         private System.Windows.Forms.Label label186;
         private System.Windows.Forms.Label label183;
@@ -3165,7 +3119,6 @@
         private System.Windows.Forms.Label label177;
         private System.Windows.Forms.Label label176;
         private System.Windows.Forms.Label label175;
-        private System.Windows.Forms.Label label174;
         private System.Windows.Forms.Label label173;
         private System.Windows.Forms.Label label171;
         private System.Windows.Forms.Label label170;
@@ -3177,7 +3130,6 @@
         private System.Windows.Forms.Label label162;
         private System.Windows.Forms.Label label161;
         private System.Windows.Forms.Label label160;
-        private System.Windows.Forms.Label label159;
         private System.Windows.Forms.Label label158;
         private System.Windows.Forms.Label label156;
         private System.Windows.Forms.Label label155;
@@ -3191,7 +3143,6 @@
         private System.Windows.Forms.Label label147;
         private System.Windows.Forms.Label label146;
         private System.Windows.Forms.Label label145;
-        private System.Windows.Forms.Label label144;
         private System.Windows.Forms.Label label143;
         private System.Windows.Forms.Label label141;
         private System.Windows.Forms.Label label140;
@@ -3199,15 +3150,8 @@
         private System.Windows.Forms.Label label138;
         private System.Windows.Forms.Label label137;
         private System.Windows.Forms.Label label136;
-        private System.Windows.Forms.Label label135;
-        private System.Windows.Forms.Label label134;
-        private System.Windows.Forms.Label label133;
-        private System.Windows.Forms.Label label132;
-        private System.Windows.Forms.Label label131;
-        private System.Windows.Forms.Label label130;
         private System.Windows.Forms.Label label129;
         private System.Windows.Forms.Label label128;
-        private System.Windows.Forms.Label label120;
         private System.Windows.Forms.Label label119;
         private System.Windows.Forms.Label label118;
         private System.Windows.Forms.Label label117;
@@ -3221,31 +3165,15 @@
         private System.Windows.Forms.Label label109;
         private System.Windows.Forms.Label label108;
         private System.Windows.Forms.Label label107;
-        private System.Windows.Forms.Label label106;
-        private System.Windows.Forms.Label label105;
-        private System.Windows.Forms.Label label104;
-        private System.Windows.Forms.Label label103;
-        private System.Windows.Forms.Label label102;
-        private System.Windows.Forms.Label label101;
-        private System.Windows.Forms.Label label100;
         private System.Windows.Forms.Label label99;
         private System.Windows.Forms.Label label98;
-        private System.Windows.Forms.Label label97;
-        private System.Windows.Forms.Label label96;
-        private System.Windows.Forms.Label label95;
-        private System.Windows.Forms.Label label94;
-        private System.Windows.Forms.Label label93;
-        private System.Windows.Forms.Label label92;
-        private System.Windows.Forms.Label label91;
         private System.Windows.Forms.Label label90;
         private System.Windows.Forms.Label label89;
         private System.Windows.Forms.Label label88;
         private System.Windows.Forms.Label label87;
         private System.Windows.Forms.Label label86;
         private System.Windows.Forms.Label label85;
-        private System.Windows.Forms.Label label84;
         private System.Windows.Forms.Label label83;
-        private System.Windows.Forms.Label label82;
         private System.Windows.Forms.Label label81;
         private System.Windows.Forms.Label label80;
         private System.Windows.Forms.Label label79;
@@ -3258,9 +3186,7 @@
         private System.Windows.Forms.Label label72;
         private System.Windows.Forms.Label label71;
         private System.Windows.Forms.Label label70;
-        private System.Windows.Forms.Label label69;
         private System.Windows.Forms.Label label68;
-        private System.Windows.Forms.Label label67;
         private System.Windows.Forms.Label label66;
         private System.Windows.Forms.Label label65;
         private System.Windows.Forms.Label label64;
@@ -3271,9 +3197,7 @@
         private System.Windows.Forms.Label label57;
         private System.Windows.Forms.Label label56;
         private System.Windows.Forms.Label label55;
-        private System.Windows.Forms.Label label54;
         private System.Windows.Forms.Label label53;
-        private System.Windows.Forms.Label label52;
         private System.Windows.Forms.Label label51;
         private System.Windows.Forms.Label label50;
         private System.Windows.Forms.Label label49;
@@ -3282,9 +3206,7 @@
         private System.Windows.Forms.Label label44;
         private System.Windows.Forms.Label label43;
         private System.Windows.Forms.Label label40;
-        private System.Windows.Forms.Label label39;
         private System.Windows.Forms.Label label38;
-        private System.Windows.Forms.Label label37;
         private System.Windows.Forms.Label label36;
         private System.Windows.Forms.Label label35;
         private System.Windows.Forms.Label label34;
@@ -3295,9 +3217,7 @@
         private System.Windows.Forms.Label label29;
         private System.Windows.Forms.Label label28;
         private System.Windows.Forms.Label label25;
-        private System.Windows.Forms.Label label24;
         private System.Windows.Forms.Label label23;
-        private System.Windows.Forms.Label label22;
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.Label label19;
@@ -3310,9 +3230,6 @@
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
@@ -3342,12 +3259,54 @@
         public System.Windows.Forms.PictureBox pictureBox3;
         public System.Windows.Forms.PictureBox pictureBox4;
         public System.Windows.Forms.PictureBox pictureBox5;
-        public System.Windows.Forms.PictureBox pictureBox6;
-        public System.Windows.Forms.PictureBox pictureBox7;
-        public System.Windows.Forms.PictureBox pictureBox8;
-        public System.Windows.Forms.PictureBox pictureBox9;
-        public System.Windows.Forms.PictureBox pictureBox10;
-        public System.Windows.Forms.PictureBox pictureBox11;
-        public System.Windows.Forms.PictureBox pictureBox12;
+        private System.Windows.Forms.Label label52;
+        private System.Windows.Forms.Label label106;
+        private System.Windows.Forms.PictureBox pictureBox6;
+        private System.Windows.Forms.PictureBox pictureBox7;
+        private System.Windows.Forms.PictureBox pictureBox8;
+        private System.Windows.Forms.PictureBox pictureBox9;
+        private System.Windows.Forms.PictureBox pictureBox10;
+        private System.Windows.Forms.PictureBox pictureBox11;
+        private System.Windows.Forms.PictureBox pictureBox12;
+        private System.Windows.Forms.PictureBox pictureBox13;
+        private System.Windows.Forms.PictureBox pictureBox14;
+        private System.Windows.Forms.PictureBox pictureBox15;
+        private System.Windows.Forms.PictureBox pictureBox16;
+        private System.Windows.Forms.PictureBox pictureBox17;
+        private System.Windows.Forms.PictureBox pictureBox18;
+        private System.Windows.Forms.PictureBox pictureBox19;
+        private System.Windows.Forms.PictureBox pictureBox20;
+        private System.Windows.Forms.PictureBox pictureBox21;
+        private System.Windows.Forms.PictureBox pictureBox22;
+        private System.Windows.Forms.PictureBox pictureBox23;
+        private System.Windows.Forms.PictureBox pictureBox24;
+        private System.Windows.Forms.PictureBox pictureBox25;
+        private System.Windows.Forms.PictureBox pictureBox26;
+        private System.Windows.Forms.PictureBox pictureBox27;
+        private System.Windows.Forms.PictureBox pictureBox28;
+        private System.Windows.Forms.PictureBox pictureBox29;
+        private System.Windows.Forms.PictureBox pictureBox30;
+        private System.Windows.Forms.PictureBox pictureBox31;
+        private System.Windows.Forms.PictureBox pictureBox32;
+        private System.Windows.Forms.PictureBox pictureBox33;
+        private System.Windows.Forms.PictureBox pictureBox34;
+        private System.Windows.Forms.PictureBox pictureBox35;
+        private System.Windows.Forms.PictureBox pictureBox36;
+        private System.Windows.Forms.PictureBox pictureBox37;
+        private System.Windows.Forms.PictureBox pictureBox38;
+        private System.Windows.Forms.PictureBox pictureBox39;
+        private System.Windows.Forms.PictureBox pictureBox40;
+        private System.Windows.Forms.PictureBox pictureBox41;
+        private System.Windows.Forms.PictureBox pictureBox42;
+        private System.Windows.Forms.PictureBox pictureBox43;
+        private System.Windows.Forms.PictureBox pictureBox44;
+        private System.Windows.Forms.PictureBox pictureBox45;
+        private System.Windows.Forms.PictureBox pictureBox46;
+        private System.Windows.Forms.PictureBox pictureBox47;
+        private System.Windows.Forms.PictureBox pictureBox48;
+        private System.Windows.Forms.PictureBox pictureBox49;
+        private System.Windows.Forms.PictureBox pictureBox50;
+        private System.Windows.Forms.PictureBox pictureBox51;
+        private System.Windows.Forms.PictureBox pictureBox52;
     }
 }

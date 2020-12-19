@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace Ludo
 {
-    class Player
+    class Tabla
     {
-        string nume;
-
-        public Player() { }
-
-        public virtual void PunePieselePeTabla(Game game) { }
-
+        public Tabla() { }
     }
 }

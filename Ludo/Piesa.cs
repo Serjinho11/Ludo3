@@ -7,7 +7,7 @@ using System.Windows.Forms;
 
 namespace Ludo
 {
-    class Piesa : Player
+    class Piesa 
     {
         public Piesa()
         {
@@ -16,7 +16,7 @@ namespace Ludo
         }
 
 
-        public override void PunePieselePeTabla(Game game)
+        public void PunePieselePeTabla(Game game)
         {
             //green
             if (game.ps.checkBoxGreen.Checked == true)
