@@ -7,13 +7,9 @@ using System.Windows.Forms;
 
 namespace Ludo
 {
-    class Piesa 
+    class Piese
     {
-        public Piesa()
-        {
-
-
-        }
+        public Piese() { }
 
 
         public void PunePieselePeTabla(Game game)

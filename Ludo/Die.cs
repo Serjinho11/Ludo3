@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ludo
 {
-    class Tabla
+    class Die
     {
-        public Tabla() { }
     }
 }

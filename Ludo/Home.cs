@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ludo
 {
-    class Casa : Tabla
+    class Home : Board
     {
-        Casa() { }
-
-
     }
 }
